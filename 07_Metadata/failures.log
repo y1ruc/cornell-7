@@ -1,0 +1,32 @@
+﻿2026-10-04T01:23:11Z  02_Prosecutors/NY_AG/Governor_Hochul_statement_2026-10-01.html
+        HTTP 403 Forbidden - The remote server returned an error: (403) Forbidden.
+        https://www.governor.ny.gov/news/statement-governor-hochul-cornell-university-sexual-assault-case-0
+2026-10-04T01:23:22Z  02_Prosecutors/Tompkins_DA/DA_statement_2026-09-28.html
+        HTTP 429 Too Many Requests - The remote server returned an error: (429) Too Many Requests.
+        https://web.archive.org/web/20260929085033/https://www.tompkinscountyny.gov/News-articles/District-Attorney-statement-regarding-Jane-Doe-v.-Cornell-University-et-al
+2026-10-04T01:24:25Z  02_Prosecutors/Tompkins_DA/DA_statement_LIVE-403-blocked.txt
+        HTTP 403 Forbidden - The remote server returned an error: (403) Forbidden.
+        https://www.tompkinscountyny.gov/News-articles/District-Attorney-statement-regarding-Jane-Doe-v.-Cornell-University-et-al
+2026-10-04T01:25:18Z  05_News/NYT/NYT_2026-10-01_police-report-omitted-claim.html
+        HTTP 403 Forbidden - The remote server returned an error: (403) Forbidden.
+        https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html
+2026-10-04T01:25:21Z  05_News/NYT/NYT_2026-10-01_five-takeaways.html
+        HTTP 403 Forbidden - The remote server returned an error: (403) Forbidden.
+        https://www.nytimes.com/2026/10/01/nyregion/cornell-jane-doe-rape-investigation-documents.html
+2026-10-04T01:25:24Z  05_News/NYT/NYT_2026-10-01_men-accused-varying-accounts.html
+        HTTP 403 Forbidden - The remote server returned an error: (403) Forbidden.
+        https://gvwire.com/2026/10/01/men-accused-in-cornell-sex-assault-suit-give-varying-accounts-of-night/
+2026-10-04T01:25:28Z  05_News/NYT/NYT_2026-10-01_shame-to-action.html
+        HTTP 403 Forbidden - The remote server returned an error: (403) Forbidden.
+        https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html
+2026-10-04T01:25:31Z  04_Police/CUPD_about.html
+        HTTP 403 Forbidden - The remote server returned an error: (403) Forbidden.
+        https://cupolice.cornell.edu/about/
+2026-10-04T01:29:28Z  02_Prosecutors/NY_AG/Governor_Hochul_statement_2026-10-01.html
+        HTTP 429
+        origin: https://www.governor.ny.gov/news/statement-governor-hochul-cornell-university-sexual-assault-case-0
+        (manual retrieval recommended)
+2026-10-04T01:33:13Z  02_Prosecutors/Tompkins_DA/DA_statement_2026-09-28.html
+        HTTP 429
+        origin: https://web.archive.org/web/20260929085033/https://www.tompkinscountyny.gov/News-articles/District-Attorney-statement-regarding-Jane-Doe-v.-Cornell-University-et-al
+        (manual retrieval recommended)

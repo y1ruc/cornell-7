@@ -1,0 +1,52 @@
+/* Alert Banner
+   - Use javascript to display active alerts to prevent cached data
+   ------------------------------------------------------------------------- */
+
+jQuery(document).ready(function($) {
+  var alertSource = "https://emergency.cornell.edu";
+  var alertUrl = alertSource + "/wp-json/oem/v1/active-alerts";
+
+  $.ajax({
+    url: alertUrl,
+    success: processAlerts,
+    error: removeBanner,
+    cache: false
+  });
+
+  function processAlerts( alerts ) {
+    var alertCount = alerts.length;
+
+    // If there are no active alerts, remove the banner from the dom
+    if (!alertCount) {
+      removeBanner();
+      return;
+    }
+
+    var alertMarkup = '';
+
+    // Single alert is wrapped in paragraph, multiple alerts are in list
+    var alertOpen = alertCount > 1 ? "<li>" : "<p>";
+    var alertClose = alertCount > 1 ? "</li>" : "</p>";
+
+    // Create markup for each alert and add to overall markup
+    $.each(alerts, function(i, alert) {
+      var singleAlert = alertOpen + alert + alertClose;
+      alertMarkup += singleAlert;
+    });
+
+    // If there are multiple alerts, wrap everything in ul
+    if (alertCount > 1) {
+      alertMarkup = "<ul class='custom warning'>" + alertMarkup + "</ul>";
+    }
+
+    // Add the alerts to the banner
+    $(".alert-banner .alert-banner-titles").append(alertMarkup);
+
+    // Display the banner
+    $(".alert-banner").removeClass("hidden");
+  }
+
+  function removeBanner() {
+    $(".alert-banner").remove();
+  }
+});

@@ -1,0 +1,73 @@
+/**
+ * @file
+ *   Nygov Exit Modal
+ */
+
+(function ($, Drupal, drupalSettings, once) {
+  'use strict';
+  Drupal.behaviors.nygovExitModal = {
+    attach: function (context) {
+      let modalBehavior = this;
+
+      $(once('nygovExitModal', 'body .layout-container a', context)).each(function(){
+
+        if (modalBehavior.isNygovLink(this)) return;
+
+        // If the link is not a nygov link, add the external-link class.
+        modalBehavior.addExternalLinkClass(this);
+
+        const options = {
+          dialogClass: 'no-close',
+          width: '620px',
+          classes: {
+            "ui-dialog-titlebar": "no-title-bar"
+          }
+        }
+
+        $(this).on('click', function(event){
+          event.preventDefault();
+          $('#o-exitModal .o-exitModal__button')[0].href = this.href;
+          const dialog = Drupal.dialog($('#o-exitModal'), options);
+          dialog.showModal();
+          const modal = document.querySelector('.ui-widget.no-close')
+          $(modal).css('zIndex', '1260');
+
+          $('#o-exitModal .o-exitModal__close').on('click', function(event) {
+            event.preventDefault();
+            dialog.close();
+          })
+        })
+
+      })
+    },
+
+    isNygovLink: function(element) {
+      if (!element) return false;
+      // Passthrough if anchor has no hostname (ex. tel, sms, mailto);
+      if (!element.hostname) return true;
+
+      // Domain allow list from theme settings.
+      const domains = drupalSettings.external_allowlist;
+      const domains_wildcard = domains.filter(d => d.slice(0, 1) == '*');
+      let domains_plain = domains.filter(d => !domains_wildcard.includes(d));
+      domains_plain.push(drupalSettings.site_hostname);
+
+      // Link is in allowed plain domains list.
+      if (domains_plain.includes(element.hostname)) {
+        return true;
+      }
+      // Link domain ends with wildcard value, otherwise return false.
+      return domains_wildcard.some(d => element.hostname.endsWith(d.slice(1)));
+    },
+
+    addExternalLinkClass: function(element) {
+      // Add class to all links exiting site regardless of allow list.
+      if (element.hostname !== drupalSettings.site_hostname) {
+        const labelDiv = element.querySelector('.o-whats-related__label');
+        if (labelDiv && !labelDiv.querySelector('.icon-external-link')) {
+          labelDiv.insertAdjacentHTML('beforeend', '<span class="icon-external-link" aria-hidden="true"></span><span class="sr-only">, opens in new window</span>');
+        }
+      }
+    }
+  }
+})(jQuery, Drupal, drupalSettings, once);

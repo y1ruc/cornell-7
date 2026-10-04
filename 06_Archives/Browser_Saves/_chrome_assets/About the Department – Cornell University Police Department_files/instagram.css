@@ -1,0 +1,37 @@
+#sbi_images .sbi_photo_wrap a img {
+	display: block !important;
+}
+
+#ctf .ctf-tweet-items .ctf-item .ctf-tweet-actions a {
+	color: #000;
+}
+
+#sb_instagram {
+	/*.sb_instagram_header {
+	    .sbi_header_link {
+	        &:focus, 
+	        &:hover {
+	            border: 2px solid blue;
+	        }
+	    }
+	}*/
+}
+#sb_instagram #sbi_images .sbi_photo_wrap .sbi_photo:focus img {
+	border: 3px solid #1c6f98;
+	border-radius: 4px;
+}
+
+#main-content #main #sb_instagram .sbi_follow_btn a:focus {
+	outline: 2px solid #1176ac;
+	-webkit-box-shadow: outset 10px 10px 10px #1176ac;
+	        box-shadow: outset 10px 10px 10px #1176ac;
+}
+#main-content #main #sb_instagram .sbi_follow_btn a:hover {
+	outline: 2px solid #1176ac;
+	-webkit-box-shadow: outset 10px 10px 10px #1176ac;
+	        box-shadow: outset 10px 10px 10px #1176ac;
+}
+#main-content #main #sb_instagram #sbi_images {
+	padding: 0;
+}
+/*# sourceMappingURL=instagram.css.map */

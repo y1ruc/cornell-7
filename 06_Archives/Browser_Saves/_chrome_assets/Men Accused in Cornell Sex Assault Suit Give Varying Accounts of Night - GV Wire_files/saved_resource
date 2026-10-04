@@ -1,0 +1,37 @@
+var __TRINITY_IS_LEGACY__ = false;
+
+try {
+  eval('({...{x: 1}})');
+  eval('let b = window?.x ?? document');
+  eval('(async () => { await Promise.resolve(); })()');
+  eval('const fn = ({a, b = {}, ...c}) => {}');
+  eval('`${window.x}`');
+  eval('(async () => { for await (const item of []) {} })()');
+
+  if (!window.fetch) throw 'No fetch';
+  if (!(typeof Symbol)) throw 'No Symbol';
+} catch (error) {
+  __TRINITY_IS_LEGACY__ = error;
+}
+(() => {
+  const remove = (timeout) => {
+    setTimeout(() => {
+      const poweredByCustomElement = document.querySelector('.trinity-tts-pb');
+      if (!poweredByCustomElement) return;
+
+      poweredByCustomElement.remove();
+    }, timeout);
+  };
+
+  // try to remove ASAP, but handle cases when we are unable to do it from 1st attempt... Should be corner case but still
+  remove(1);
+  remove(100);
+  remove(300);
+  remove(2000);
+})();
+console.warn('Trinity TTS Player: not enough credits');window.postMessage({
+                type: 'TRINITY_TTS',
+                value: {
+                    action: 'blockedByCap'
+                }
+            })

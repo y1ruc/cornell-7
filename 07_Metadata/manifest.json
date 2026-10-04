@@ -1,0 +1,223 @@
+[
+  {
+    "path": "01_Court/Complaint/complaint_as-filed_2026-09-14.pdf",
+    "url": "https://media.snopes.com/2026/09/cornell_rape_lawsuit.pdf",
+    "source": "Snopes (mirror of NY Supreme Ct, NY County filing)",
+    "title": "Jane Doe v. Cornell University, Inc., et al. - Summons and Civil Complaint",
+    "published": "2026-09-14",
+    "archive": "https://iapps.courts.state.ny.us/nyscef/ (authoritative source; Index No. 161704/2026 to confirm)",
+    "already": true
+  },
+  {
+    "path": "02_Prosecutors/NY_AG/Governor_Hochul_statement_2026-10-01.html",
+    "url": "https://www.governor.ny.gov/news/statement-governor-hochul-cornell-university-sexual-assault-case-0",
+    "source": "Office of Governor Kathy Hochul",
+    "title": "Statement From Governor Hochul on the Cornell University Sexual Assault Case",
+    "published": "2026-10-01",
+    "archive": ""
+  },
+  {
+    "path": "02_Prosecutors/NY_AG/AG_press-releases_index.html",
+    "url": "https://ag.ny.gov/press-releases",
+    "source": "NY State Office of the Attorney General",
+    "title": "AG Press Releases index (locate Oct 1 2026 special prosecutor statement slug)",
+    "published": "",
+    "archive": ""
+  },
+  {
+    "path": "02_Prosecutors/NY_AG/AG_statement_special-prosecutor_mirror-einpresswire.html",
+    "url": "https://www.einpresswire.com/article/946816353/attorney-general-james-releases-statement-on-appointment-as-special-prosecutor",
+    "source": "EIN Presswire (wire mirror of NY AG release - verify against ag.ny.gov original)",
+    "title": "Attorney General James Releases Statement on Appointment as Special Prosecutor",
+    "published": "2026-10-01",
+    "archive": ""
+  },
+  {
+    "path": "02_Prosecutors/Tompkins_DA/DA_statement_2026-09-28.html",
+    "url": "https://web.archive.org/web/20260929085033/https://www.tompkinscountyny.gov/News-articles/District-Attorney-statement-regarding-Jane-Doe-v.-Cornell-University-et-al",
+    "source": "Tompkins County DA (via Internet Archive)",
+    "title": "District Attorney statement re: Jane Doe v. Cornell University, et al.",
+    "published": "2026-09-28",
+    "archive": "https://web.archive.org/web/20260929085033/https://www.tompkinscountyny.gov/News-articles/District-Attorney-statement-regarding-Jane-Doe-v.-Cornell-University-et-al"
+  },
+  {
+    "path": "02_Prosecutors/Tompkins_DA/DA_statement_LIVE-403-blocked.txt",
+    "url": "https://www.tompkinscountyny.gov/News-articles/District-Attorney-statement-regarding-Jane-Doe-v.-Cornell-University-et-al",
+    "source": "Tompkins County DA (live)",
+    "title": "PROBE ONLY - expected 403 (bot-blocked); retained to document the block",
+    "published": "2026-09-28",
+    "archive": ""
+  },
+  {
+    "path": "03_Cornell/Public_Investigation_Materials/TaskForce_final-report_2026-03-10.pdf",
+    "url": "https://provost.cornell.edu/initiatives/task-force-sa/tfsa-final-report-2026.pdf",
+    "source": "Cornell University Office of the Provost",
+    "title": "Presidential Task Force on Campus Sexual Assault - Final Report",
+    "published": "2026-03-10",
+    "archive": "",
+    "already": true
+  },
+  {
+    "path": "03_Cornell/Public_Investigation_Materials/TaskForce_recommendations_posting_2026-03-17.html",
+    "url": "https://statements.cornell.edu/2026/20260317-tfcsa-final-recommendations.cfm",
+    "source": "Cornell University Statements",
+    "title": "Task Force on Campus Sexual Assault Final Recommendations",
+    "published": "2026-03-17",
+    "archive": "",
+    "already": true
+  },
+  {
+    "path": "03_Cornell/Public_Investigation_Materials/TaskForce_announcement_2025-02-06.html",
+    "url": "https://news.cornell.edu/stories/2025/02/task-force-address-sexual-assault-campus",
+    "source": "Cornell Chronicle",
+    "title": "Task Force to Address Sexual Assault on Campus",
+    "published": "2025-02-06",
+    "archive": "",
+    "already": true
+  },
+  {
+    "path": "03_Cornell/Public_Investigation_Materials/SARM_survey_statement_2025-11-04.html",
+    "url": "https://statements.cornell.edu/2025/20251104-sarm-survey.cfm",
+    "source": "Cornell University Statements",
+    "title": "Statement on Sexual Assault and Relationship Misconduct (SARM) Survey Results",
+    "published": "2025-11-04",
+    "archive": "",
+    "already": true
+  },
+  {
+    "path": "03_Cornell/Official_Statements/Cornell_statement_2024-11-26.html",
+    "url": "https://statements.cornell.edu/2024/20241126-update.cfm",
+    "source": "Cornell University Statements",
+    "title": "Update on Disturbing Allegations of Sexual Violence",
+    "published": "2024-11-26",
+    "archive": "",
+    "already": true
+  },
+  {
+    "path": "03_Cornell/Official_Statements/Cornell_statement_2026-09-28_response-to-DA.html",
+    "url": "https://statements.cornell.edu/2026/20260928-da-investigation.cfm",
+    "source": "Cornell University Statements",
+    "title": "District Attorney's Investigation of 2024 Sexual Assault Allegations",
+    "published": "2026-09-28",
+    "archive": "",
+    "already": true
+  },
+  {
+    "path": "05_News/Other/CornellDailySun_2024-11-08_initial-report.html",
+    "url": "https://www.cornellsun.com/article/2024/11/fraternity-suspended-after-individual-reported-being-sexually-assaulted-by-multiple-males-coerced-into-consuming-drugs-including-ketamine-at-house",
+    "source": "The Cornell Daily Sun",
+    "title": "Fraternity Suspended After Individual Reported Being Sexually Assaulted by Multiple Males, Coerced Into Consuming Drugs Including Ketamine At House",
+    "published": "2024-11-08",
+    "archive": "https://web.archive.org/web/20260928173508/https://www.wbng.com/2026/09/22/",
+    "already": true
+  },
+  {
+    "path": "05_News/Other/CornellDailySun_2026-09-18_lawsuit-reports.html",
+    "url": "https://www.cornellsun.com/article/2026/09/tccsuykuvb4z",
+    "source": "The Cornell Daily Sun",
+    "title": "Cornell, Chi Phi Sued by Victim of Alleged Gang Rape, Drugging in 2024",
+    "published": "2026-09-18",
+    "archive": "",
+    "already": true
+  },
+  {
+    "path": "05_News/ABC/ABC_2026-09-28_reopened-investigation.html",
+    "url": "https://abcnews.com/US/district-attorney-reopens-case-alleged-cornell-university-gang/story?id=136806149",
+    "source": "ABC News",
+    "title": "District attorney reopens case of alleged Cornell University 'gang rape'",
+    "published": "2026-09-28",
+    "archive": "https://web.archive.org/web/20260929182040/https://abcnews.com/US/district-attorney-reopens-case-alleged-cornell-university-gang/story?id=136806149",
+    "already": true
+  },
+  {
+    "path": "05_News/CBS/CBS_2026-09-30_police-transcript_100pct-confident.html",
+    "url": "https://www.cbsnews.com/newyork/news/cornell-university-rape-case-jane-doe-police-interview-transcript/",
+    "source": "CBS News",
+    "title": "Jane Doe in Cornell University case told campus police 'I can say with 100% confidence I was raped,' transcript shows",
+    "published": "2026-09-30",
+    "archive": "https://web.archive.org/web/20260930175345/https://www.cbsnews.com/newyork/news/cornell-university-rape-case-jane-doe-police-interview-transcript/",
+    "already": true
+  },
+  {
+    "path": "05_News/CBS/CBS_2026-10-02_James-special-prosecutor.html",
+    "url": "https://www.cbsnews.com/newyork/news/cornell-university-case-letitia-james-special-prosecutor/",
+    "source": "CBS News New York",
+    "title": "N.Y. Attorney General Letitia James appointed as special prosecutor in Cornell University alleged rape case",
+    "published": "2026-10-02",
+    "archive": ""
+  },
+  {
+    "path": "05_News/CBS/CBS_2026-09-22_lawsuit-filed.html",
+    "url": "https://www.cbsnews.com/newyork/news/cornell-university-lawsuit-fraternity-rape-allegations/",
+    "source": "CBS News New York",
+    "title": "Former Cornell University Student Sues School, 7 Frat Members Over Rape Allegations",
+    "published": "2026-09-22",
+    "archive": ""
+  },
+  {
+    "path": "05_News/Other/NPR_2026-09-30_police-interview-methodology.html",
+    "url": "https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
+    "source": "NPR",
+    "title": "Police questioning can shape a sexual assault case. Their approach is often wrong",
+    "published": "2026-09-30",
+    "archive": "https://web.archive.org/web/20260930204457/https://www.npr.org/2026/09/30/nx-s1-5983868/cornell-rape-police-interview-investigation-victim-trauma-informed",
+    "already": true
+  },
+  {
+    "path": "05_News/NYT/NYT_2026-10-01_police-report-omitted-claim.html",
+    "url": "https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html",
+    "source": "The New York Times",
+    "title": "Cornell Police Report Omitted Student's Claim She Was Raped",
+    "published": "2026-10-01",
+    "archive": "https://web.archive.org/web/20261001164318/https://www.nytimes.com/2026/10/01/nyregion/url-cornell-university-jane-doe-rape-case-statement.html"
+  },
+  {
+    "path": "05_News/NYT/NYT_2026-10-01_five-takeaways.html",
+    "url": "https://www.nytimes.com/2026/10/01/nyregion/cornell-jane-doe-rape-investigation-documents.html",
+    "source": "The New York Times",
+    "title": "The Cornell Rape Investigation: Five Takeaways",
+    "published": "2026-10-01",
+    "archive": ""
+  },
+  {
+    "path": "05_News/NYT/NYT_2026-10-01_men-accused-varying-accounts.html",
+    "url": "https://gvwire.com/2026/10/01/men-accused-in-cornell-sex-assault-suit-give-varying-accounts-of-night/",
+    "source": "GV Wire (syndicated New York Times)",
+    "title": "Men Accused in Cornell Sex Assault Suit Give Varying Accounts of Night",
+    "published": "2026-10-01",
+    "archive": ""
+  },
+  {
+    "path": "05_News/NYT/NYT_2026-10-01_shame-to-action.html",
+    "url": "https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html",
+    "source": "The New York Times",
+    "title": "How a Cornell Student Went From Shame to Action",
+    "published": "2026-10-01",
+    "archive": ""
+  },
+  {
+    "path": "04_Police/CUPD_about.html",
+    "url": "https://cupolice.cornell.edu/about/",
+    "source": "Cornell University Police Department",
+    "title": "About the Department",
+    "published": "",
+    "archive": ""
+  },
+  {
+    "path": "03_Cornell/Title_IX/US-DOE_Title-IX-overview.html",
+    "url": "https://www.ed.gov/laws-and-policy/civil-rights-laws/title-ix-and-sex-discrimination",
+    "source": "US Dept of Education",
+    "title": "Title IX and Sex Discrimination",
+    "published": "2025-04-11",
+    "archive": ""
+  },
+  {
+    "path": "06_Archives/Wikipedia_article_full-wikitext.xml",
+    "url": "https://en.wikipedia.org/wiki/Special:Export/2024_Cornell_University_rape_allegations",
+    "source": "Wikipedia",
+    "title": "2024 Cornell University rape allegations - full wikitext with references",
+    "published": "",
+    "archive": "https://en.wikipedia.org/w/index.php?title=2024_Cornell_University_rape_allegations&oldid=1378334518",
+    "already": true
+  }
+]
