@@ -1,12 +1,15 @@
 # Section C — Collection Status
 
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-07
 **Archive root:** `D:\Cornell-7`
 **Ledger:** `07_Metadata/ledger.csv` (+ `.jsonl`, + `ledger_failures.csv`)
 
 ---
 
 ## Integrity
+
+The figures below describe the verified **October 3 baseline snapshot**. A dated addendum
+with 12 later records is listed after the baseline tables.
 
 | Check | Result |
 |---|---|
@@ -27,6 +30,22 @@
 
 **Deliberately not archived:** images of the survivor and screenshots of private text/Snapchat
 messages. These were circulated without consent and re-hosting them perpetuates that harm.
+
+## October 7 addendum
+
+12 additional PDFs were located and SHA-256 recorded in
+`07_Metadata/ADDITIONAL_SHA256SUMS_2026-10-07.txt`:
+
+- 11 court-filed records from the separate Tompkins County case, *John Doe v. Cornell*,
+  Index No. EF2026-0292, including the heavily redacted 99-page Cornell hearing-panel decision,
+  the petition, Cornell's opposition, the September 23 dismissal order, the unsealing order,
+  and related exhibits.
+- New York Executive Order No. 64, signed October 1, 2026, appointing the NY Attorney General
+  as special prosecutor.
+
+The court-stamped Jane Doe complaint was reviewed to confirm NYSCEF Doc. 1 and the Sept. 16
+filing stamp, but its duplicate PDF was not retained because it embeds a private Snapchat image.
+See `01_Court/NEW_MATERIALS.md` for the source list and remaining retrieval leads.
 
 ## Collections by area
 

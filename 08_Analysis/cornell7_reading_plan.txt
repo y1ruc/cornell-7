@@ -1,0 +1,42 @@
+CORNELL-7 QUICK READING PLAN
+
+A - PRIMARY (read first, most important)
+1. C:\Users\aiden\Documents\Dev\random\cornell-7-new\01_Court\Complaint\complaint_as-filed_2026-09-14.pdf
+2. C:\Users\aiden\Documents\Dev\random\cornell-7-new\02_Prosecutors\Tompkins_DA\district-attorney-public-statement-9-28-26.pdf
+
+B - OFFICIAL (context, institutional)
+3. C:\Users\aiden\Documents\Dev\random\cornell-7-new\03_Cornell\Task_Force\tfsa-final-report-2026.pdf
+4. C:\Users\aiden\Documents\Dev\random\cornell-7-new\03_Cornell\Public_Investigation_Materials\TaskForce_final-report_2026-03-10.pdf
+5. C:\Users\aiden\Documents\Dev\random\cornell-7-new\03_Cornell\Official_Statements\Cornell_statement_2026-09-28_response-to-DA.html
+6. C:\Users\aiden\Documents\Dev\random\cornell-7-new\03_Cornell\Official_Statements\sfl-social-event-policy-fall2025.pdf
+
+C - INVESTIGATIVE (big outlets, evidence cited)
+7. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\NYT\How a Cornell Student Went From Shame to Action - The New York Times.html
+8. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\NYT\Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped - The New York Times.html
+9. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\NYT\The Cornell Rape Investigation_ Five Takeaways - The New York Times.html
+10. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\Cornell_Daily_Sun\reuters.com__legal-government-prosecutors-reopen-investigation-into-alleged-2024-gang-rape.html
+11. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\Cornell_Daily_Sun\apnews.com__article-cornell-rape-accuser-texts-convinced-fraternity-7203e55c76f7be14ab9297.html
+12. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\Cornell_Daily_Sun\cbsnews.com__news-jane-doe-cornell-university-rape-allegations-text-messages-transcripts.html
+13. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\Cornell_Daily_Sun\nbcnews.com__news-us-news-cornell-rape-allegations-fraternity-rcna600381.html
+14. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\Cornell_Daily_Sun\abcnews.com__US-district-attorney-reopens-case-alleged-cornell-university-gang-story.html
+
+D - LOCAL/TIMELINE (fill gaps)
+15. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\Cornell_Daily_Sun\eu.usatoday.com__story-news-nation-2026-09-30-cornell-7-jane-doe-rape-case-timeline-920037.html
+16. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\Cornell_Daily_Sun\jambroadcasting.com__timeline-of-alleged-cornell-university-fraternity-house-rape-investig.html
+17. C:\Users\aiden\Documents\Dev\random\cornell-7-new\05_News\Cornell_Daily_Sun\cdsun-0928-da-reopens.html
+
+LIVE DOCKET
+- https://iapps.courts.state.ny.us/nyscef/CaseDetails?docketId=KYFqJy4aBz33VvRMSx0j3w==
+- https://unicourt.com/case/ny-sue1-casegg127c850f5265-3677984
+
+HOW TO GO THROUGH IT:
+1. Read A (1-2) first. Take bullets: key facts, dates, who/what. For each claim, note whether it's alleged vs established.
+2. Read B (3-6) for institutional context. Don't take press spin - compare to A.
+3. Read C (7-14): focus on what they cite (transcripts/texts), not opinions. Cross-reference to complaint/DA.
+4. Read D (15-17) last to fill timeline gaps.
+
+TIPS:
+- Track: Undisputed vs Disputed vs Unknown.
+- Civil = preponderance; criminal (grand jury) = beyond reasonable doubt. DA reopening doesn't mean guilt.
+- Treat HTML/news as secondary; PDFs/court docs as primary.
+- Watch for changes between initial police account vs civil complaint (see DA statement + NYT Oct 1-style reporting).
